@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "cinema_name": "cineplex",
+    "location": "model town",
+    "capacity": 200,
+    "reserved": 3,
+    "goldPrice": 940,
+    "silverPrice": 340,
+    "rating": 3,
+    "description": "Best in town",
+    "movList": [{
+        "movieid": 1,
+        "title": "the nun",
+        "genre": "horror",
+        "language": "english",
+        "rating1": 2,
+        
+            "description1": "dmscmf"
+        },
+        {
+            "movieid": 2,
+            "title": "the moonstone",
+            "genre": "horror",
+            "language": "english",
+            "rating1": 2,
+            "description1": "dsdsdff"
+            
+        }
+    ]
+}
